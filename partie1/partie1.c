@@ -2,6 +2,7 @@
 #include <stdlib.h>
 #include <math.h>
 int main (void)
+//part1
 {
 float a,b,c,x_min,x_max,delta_x;
 
