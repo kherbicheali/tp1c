@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
-main ()
+int main (void)
 {
 float a,b,c,x_min,x_max,delta_x;
 
